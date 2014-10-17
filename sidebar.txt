@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ifb:home|Door43 (ifb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ifb|d43-ifb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ifb/archive/master.zip|d43-ifb.zip]]
+
+**Recent Changes**
+{{changes>ns = ifb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ifb|Ethnologue data]]
+
